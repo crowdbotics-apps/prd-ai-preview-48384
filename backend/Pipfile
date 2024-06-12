@@ -39,3 +39,4 @@ cb-profile = {editable = true, path = "./modules/profile"}
 cb-privacy-policy = {editable = true, path = "./modules/privacy_policy"}
 cb-terms-and-conditions = {editable = true, path = "./modules/terms_and_conditions"}
 cb-django-calendly = {editable = true, path = "./modules/django_calendly"}
+cb-django-core = {editable = true, path = "./modules/django_core"}
