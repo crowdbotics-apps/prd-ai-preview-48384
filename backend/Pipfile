@@ -37,3 +37,4 @@ azure-keyvault-secrets = "~=4.8.0"
 azure-identity = "~=1.16.0"
 cb-profile = {editable = true, path = "./modules/profile"}
 cb-privacy-policy = {editable = true, path = "./modules/privacy_policy"}
+cb-terms-and-conditions = {editable = true, path = "./modules/terms_and_conditions"}
