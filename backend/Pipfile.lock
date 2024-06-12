@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "02f41ce3e8751da628b5b084dbf656173bf58b3b9322931b60226e8768a68fdf"
+            "sha256": "cc52e77c2300f24725b63dcebf8e172bdf5807f8999b2012423e0b31f05df69e"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -95,6 +95,10 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==5.3.3"
+        },
+        "cb-privacy-policy": {
+            "editable": true,
+            "path": "./modules/privacy_policy"
         },
         "cb-profile": {
             "editable": true,
@@ -580,7 +584,6 @@
             "version": "==2.7.1"
         },
         "googleapis-common-protos": {
-            "extras": [],
             "hashes": [
                 "sha256:0e1c2cdfcbc354b76e4a211a35ea35d6926a835cba1377073c4861db904a1877",
                 "sha256:c6442f7a0a6b2a80369457d79e6672bb7dcbaab88e0848302497e3ec80780a6a"
@@ -1195,7 +1198,6 @@
             "version": "==0.5.0"
         },
         "tablib": {
-            "extras": [],
             "hashes": [
                 "sha256:9821caa9eca6062ff7299fa645e737aecff982e6b2b42046928a6413c8dabfd9",
                 "sha256:f6661dfc45e1d4f51fa8a6239f9c8349380859a5bfaa73280645f046d6c96e33"
